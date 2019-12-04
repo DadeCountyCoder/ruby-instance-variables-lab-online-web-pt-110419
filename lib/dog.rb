@@ -1,5 +1,6 @@
 class Dog
-  lassie = Dog.new
+  def initialize
   
 end
 
+  lassie = Dog.new
